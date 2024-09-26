@@ -1,4 +1,4 @@
-# 🐾 charity-blink-solana 🐾
+# 🐾 Solana blink for a simple smart contract 🐾
 
 ### Program:
 * 📝 **Initialize**: A Solana program is set up once by setting a **due date** for the charity. This is a **one-time function**—once initialized, it’s done!
